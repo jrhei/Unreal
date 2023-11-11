@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Janno/Desktop/repo/IntroAndSetup/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/LL/MZJVLUJSKUHEALC86RMO1H.uasset",
+				"C:/Users/Janno/Desktop/repo/IntroAndSetup/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/4F/RUKCPLFMLOHOQLOI5WFFKQ.uasset",
+				"C:/Users/Janno/Desktop/repo/IntroAndSetup/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IP/0MKLTH1V7VEOGJ33BG7DYD.uasset",
+				"C:/Users/Janno/Desktop/repo/IntroAndSetup/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/P0/Q73442H2RCZFJ4DRWFS71I.uasset"
+			]
+		}
+	]
+}
