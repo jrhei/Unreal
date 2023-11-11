@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Janno/Documents/Unreal Projects/IntroAndSetup/init_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/IA/ZTGX6OXRXTWRP2FPWHZPGR.uasset",
+				"C:/Users/Janno/Documents/Unreal Projects/IntroAndSetup/init_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/RX/0CE9AIOIBF9EUC5R0KV5DP.uasset",
+				"C:/Users/Janno/Documents/Unreal Projects/IntroAndSetup/init_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UJ/5MZB92STGPBOL7URKYXBSR.uasset",
+				"C:/Users/Janno/Documents/Unreal Projects/IntroAndSetup/init_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HI/DRT6CYJWAE2V371UDJ05AN.uasset",
+				"C:/Users/Janno/Documents/Unreal Projects/IntroAndSetup/init_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/I4/CWCEAA12DMILKXMANKR570.uasset",
+				"C:/Users/Janno/Documents/Unreal Projects/IntroAndSetup/init_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U8/0OW4672B5HQ4XXX747B8CZ.uasset",
+				"C:/Users/Janno/Documents/Unreal Projects/IntroAndSetup/init_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0Y/7UKTAC9SEWP5UP5LXDA6WW.uasset",
+				"C:/Users/Janno/Documents/Unreal Projects/IntroAndSetup/init_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EW/JRS61XM9Q01JELT1CUFC26.uasset",
+				"C:/Users/Janno/Documents/Unreal Projects/IntroAndSetup/init_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3F/MMEL56CRG6H2OH68F9U2O7.uasset",
+				"C:/Users/Janno/Documents/Unreal Projects/IntroAndSetup/init_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/O3/CUIQV3PDVT6HKA4X3K87SZ.uasset"
+			]
+		}
+	]
+}
